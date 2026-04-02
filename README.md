@@ -89,7 +89,7 @@
   </a>
 </p>
 
-- 🌐 **Portfolio:** [Portfolio](https://firstportfoliobyabdullahazhar.netlify.app)  
+- 🌐 **Portfolio:** [Portfolio](https://abdullahazhar202rr.vercel.app)  
 - 💼 **LinkedIn:** [Abdullah Azhar](https://www.linkedin.com/in/abdullahazhar202)  
 - 📂 **GitHub:** [abdullahazhar202rr](https://github.com/abdullahazhar202rr)  
 - 📧 **Email:** [abdullahazhar202rr@gmail.com](mailto:abdullahazhar202rr@gmail.com)
