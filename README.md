@@ -11,15 +11,15 @@
 
 ## What I'm building
 
-**ACOS.** An autonomous multi-agent system (AETHAR) built to run company operations without constant human input.
+**ACOS.** An autonomous multi-agent system (AETHAR) built to run company operations without constant human input. In development, not yet public.
 
-**LectureAI.** A QLoRA fine-tuned Phi-3 Mini RAG app that answers questions from lecture content. Built as an ANN/DL group project.
+**LectureAI.** A QLoRA fine-tuned Phi-3 Mini RAG app that answers questions from lecture content. Built as an ANN/DL group project. In development, not yet public.
 
-**Vision Toolkit.** A professional image processing application with both web and desktop versions.
+**Vision Toolkit.** A professional image processing application with both web and desktop versions. In development, not yet public.
 
-**Visibility Agent.** A multi-agent AI layer running on top of Visibility Live, an industrial monitoring platform.
+**Visibility Agent.** A multi-agent AI layer running on top of Visibility Live, an industrial monitoring platform. In development, not yet public.
 
-**Oz Armour automation suite.** Production tooling for product photo pipelines, customer replies, and Shopify/eBay operations.
+**Oz Armour automation suite.** Production tooling for product photo pipelines, customer replies, and Shopify/eBay operations. Closed source, production.
 
 ## Tech stack
 
@@ -33,6 +33,8 @@ Web: React, Node.js, Express, MongoDB, Tailwind CSS
 Team head of the Oz Armour developer team, acting manager at ozarmour.co Australia. Completed a summer internship at Visibility Bots in Faisalabad. IEEE student member. Working on autonomous agent system design for over a year.
 
 ## Contact
+
+Open to freelance work and research collaborations.
 
 Portfolio: [abdullahazhar202rr.vercel.app](https://abdullahazhar202rr.vercel.app)
 LinkedIn: [Abdullah Azhar](https://www.linkedin.com/in/abdullahazhar202)
