@@ -32,13 +32,6 @@ Web: React, Node.js, Express, MongoDB, Tailwind CSS
 
 Team head of the Oz Armour developer team, acting manager at ozarmour.co Australia. Completed a summer internship at Visibility Bots in Faisalabad. IEEE student member. Working on autonomous agent system design for over a year.
 
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahazhar202rr&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahazhar202rr&layout=compact&theme=tokyonight" height="165" />
-</p>
-
 ## Contact
 
 Portfolio: [abdullahazhar202rr.vercel.app](https://abdullahazhar202rr.vercel.app)
