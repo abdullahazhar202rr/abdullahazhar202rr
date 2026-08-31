@@ -38,9 +38,6 @@ Team head of the Oz Armour developer team, acting manager at ozarmour.co Austral
   <img src="https://github-readme-stats.vercel.app/api?username=abdullahazhar202rr&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahazhar202rr&layout=compact&theme=tokyonight" height="165" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahazhar202rr&theme=tokyonight" height="165" />
-</p>
 
 ## Contact
 
